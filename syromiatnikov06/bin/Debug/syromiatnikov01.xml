@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>syromiatnikov01</name>
+    </assembly>
+    <members>
+        <member name="T:syromiatnikov01.Program">
+            <summary>
+            Class Program
+            class that creates array of students
+            and prints it in console
+            </summary>
+        </member>
+        <member name="T:syromiatnikov01.Student">
+            <summary>
+            Class Student
+            class that models student
+            contains student's fields and properties
+            </summary>
+        </member>
+        <member name="F:syromiatnikov01.Student._firstName">
+            <summary>
+            Private fields of a class
+            </summary>
+        </member>
+        <member name="M:syromiatnikov01.Student.#ctor(System.String,System.String,System.String,System.DateTime,System.DateTime,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Constructor with 9 parameters
+            </summary>
+            <param name="lastName"></param>
+            <param name="firstName"></param>
+            <param name="patronymic"></param>
+            <param name="dateOfBirth"></param>
+            <param name="dateOfAdmission"></param>
+            <param name="group"></param>
+            <param name="faculty"></param>
+            <param name="specialty"></param>
+            <param name="academicPerformance"></param>
+        </member>
+        <member name="P:syromiatnikov01.Student.FirstName">
+            <summary>
+            Public property Name
+            </summary>
+        </member>
+        <member name="P:syromiatnikov01.Student.LastName">
+            <summary>
+            Public property Surname
+            </summary>
+        </member>
+        <member name="P:syromiatnikov01.Student.Patronymic">
+            <summary>
+            Public property Patronymic
+            </summary>
+        </member>
+        <member name="P:syromiatnikov01.Student.DateOfBirth">
+            <summary>
+            Public property DateOfBirth
+            </summary>
+        </member>
+        <member name="P:syromiatnikov01.Student.DateOfAdmission">
+            <summary>
+            Public property DateOfAdmission
+            </summary>
+        </member>
+        <member name="P:syromiatnikov01.Student.Group">
+            <summary>
+            Public property GroupIndex
+            </summary>
+        </member>
+        <member name="P:syromiatnikov01.Student.Faculty">
+            <summary>
+            Public property Faculty
+            </summary>
+        </member>
+        <member name="P:syromiatnikov01.Student.Specialty">
+            <summary>
+            Public property Specialty
+            </summary>
+        </member>
+        <member name="P:syromiatnikov01.Student.AcademicPerformance">
+            <summary>
+            Public property AcademicPerformance
+            </summary>
+        </member>
+        <member name="M:syromiatnikov01.Student.ToString">
+            <summary>
+            ToString method overriding
+            </summary>
+            <returns>Full data about student</returns>
+        </member>
+        <member name="M:syromiatnikov01.Student.Equals(System.Object)">
+            <summary>
+            Equals method overriding
+            </summary>
+            <param name="obj"></param>
+            <returns>If objects are equal returns true otherwise false</returns>
+        </member>
+        <member name="M:syromiatnikov01.Student.GetHashCode">
+            <summary>
+            GetHashCode method overriding
+            </summary>
+            <returns>Hashcode of an object</returns>
+        </member>
+    </members>
+</doc>

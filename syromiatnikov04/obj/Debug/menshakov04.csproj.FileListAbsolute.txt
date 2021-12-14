@@ -1,0 +1,12 @@
+D:\C-Sharp\menshakov04\bin\Debug\menshakov04.exe.config
+D:\C-Sharp\menshakov04\bin\Debug\menshakov04.exe
+D:\C-Sharp\menshakov04\bin\Debug\menshakov04.pdb
+D:\C-Sharp\menshakov04\bin\Debug\menshakov01.exe
+D:\C-Sharp\menshakov04\bin\Debug\menshakov01.pdb
+D:\C-Sharp\menshakov04\bin\Debug\menshakov01.xml
+D:\C-Sharp\menshakov04\bin\Debug\menshakov01.exe.config
+D:\C-Sharp\menshakov04\obj\Debug\menshakov04.csproj.CoreCompileInputs.cache
+D:\C-Sharp\menshakov04\obj\Debug\menshakov04.csproj.CopyComplete
+D:\C-Sharp\menshakov04\obj\Debug\menshakov04.exe
+D:\C-Sharp\menshakov04\obj\Debug\menshakov04.pdb
+D:\C-Sharp\menshakov04\obj\Debug\menshakov04.csproj.AssemblyReference.cache
